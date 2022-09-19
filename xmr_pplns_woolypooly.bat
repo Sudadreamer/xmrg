@@ -1,0 +1,1 @@
+xmrig.exe -a rx/0 -o stratum+tcp://pool.eu.woolypooly.com:3108 -u 79bd7133d4f9e9e3d0067cd53e8c0bed46a537d92c63883724fd2888749bcabc.HomeRigg -p x
